@@ -1,0 +1,21 @@
+.sort-order {
+	 font-size: .7em;
+	 margin-left: 10px;
+}
+th {
+	text-align: center;
+}
+.label {
+	margin-right: 2px;
+}
+.editable-click, a.editable-click {
+	color: #000000;
+	border: none;
+}
+.sortable-ghost>a {
+	background-color: #ffffff !important;
+	color: #ffffff !important;
+}
+:drag {
+	background-color: black;
+};
